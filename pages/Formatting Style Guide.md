@@ -80,10 +80,13 @@ icon:: 👠
 	- {{embed ((6494c06d-9524-4f81-ac2e-1e22baefaed4))}}
 -
 # Media
+collapsed:: true
+	- More info: [[Working with Media Files: Embed Audio, Photos, Videos]] and [Docs: Embed Media - Audio, Photos, Videos](https://docs.logseq.com/#/page/embed%20media%20-%20audio%2C%20photos%2C%20videos)
+	-
 	- ## PDFs
-		- ![document.pdf -> Click here to open the document on the left!](http://openresearch.ocadu.ca/id/eprint/3795/7/Uyanze_Candide_2022_DigitalFutures_THESIS.pdf)
+		- ![document.pdf -> Click here to open the document!](http://openresearch.ocadu.ca/id/eprint/3795/7/Uyanze_Candide_2022_DigitalFutures_THESIS.pdf)
 		  id:: 6498e61e-3ddd-4207-a28f-95fbeec4e2c5
-			- Here's a reference to a highlight in the document. Click on the link to jump to the position in the document -> ((64950a90-38b6-4346-9cd8-e38aae050c06))
+			- Here's a reference to a highlight in the document. Click on the following link to jump to the position in the document -> ((64950a90-38b6-4346-9cd8-e38aae050c06))
 	-
 	- ## Images
 		- ![image](https://asset.logseq.com/static/img/logo.png){:height 200, :width 192}
@@ -97,8 +100,6 @@ icon:: 👠
 	-
 	- ## Audio
 		- ![audio hosted online](https://www.kozco.com/tech/piano2-CoolEdit.mp3)
-	-
-	- More info: [[Working with Media Files: Embed Audio, Photos, Videos]] and [Docs: Embed Media - Audio, Photos, Videos](https://docs.logseq.com/#/page/embed%20media%20-%20audio%2C%20photos%2C%20videos)
 -
 # Query
 	- {{query}}

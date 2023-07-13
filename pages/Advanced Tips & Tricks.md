@@ -1,6 +1,6 @@
 - # Intro
 	- **Check out the tips below to supercharge your Logseq usage!** I've added screen captures to the tips, which you can view by [revealing the nested blocks](((6494c06d-3167-4dc2-978e-257e11b1f6b7)))
-		- ![toggle nested block](https://i.imgur.com/md9ekih.mp4)
+		- ![toggle nested block](https://i.imgur.com/md9ekih.gif)
 -
 - # Nifty Features
 	- You can use the `Contents` window in the right sidebar as a keepsafe / aide-mémoire. I've added some content there for you!

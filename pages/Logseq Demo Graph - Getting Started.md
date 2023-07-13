@@ -1,6 +1,6 @@
 - ![](https://talk.tiddlywiki.org/uploads/default/original/2X/4/4d70138d65a51b832d92d89a61f600598f5c949a.jpeg){:height 411, :width 778}
 -
-- Welcome to Candide's [Logseq Demo Graph](https://github.com/candideu/logseq-demo-graph-site-export)! Click on the ``[[page links]]`` below to start learning about how to use Logseq:
+- Welcome to Candide's [Logseq Demo Graph](https://github.com/candideu/Logseq-Demo-Graph)! Click on the ``[[page links]]`` below to start learning about how to use Logseq:
 -
 - ## [[Quick Start]]
   collapsed:: true

@@ -25,9 +25,9 @@
 	-
 	- A block can have text, TODO tasks, embedded media, [links](https://logseq.com), `code snippets`, flash cards, queries, tables, drawings, etc.
 	-
-	- To **create a new block**, just hit `ENTER` at the end of the previous line
+	- To **create a new block**, just hit `ENTER` at the end of the previous line.
 	-
-	- To **edit a block**, click on the text in its line, or use your arrow keys. Once you click away, you've exited edit mode for that block
+	- To **edit a block**, click on the text in its line, or use your `↑``↓` arrow keys. Once you click away from a block, you've exited edit mode for that block.
 	  id:: 6498e61e-b110-46ad-b6d1-1167e44da111
 	-
 	- When you're in edit mode, you can **nest blocks** inside of each other by hitting `TAB`, and then toggling between hiding/revealing. Hover over this block and click on the toggle triangle ▶ to reveal the hidden block...
