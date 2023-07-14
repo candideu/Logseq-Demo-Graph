@@ -3,7 +3,7 @@ https://github.com/candideu/Logseq-Demo-Graph/assets/55474996/79ce8300-2597-4121
 
 This quick start Logseq graph will help you find your way around the app.
 
-You'll learn about:
+## You'll learn about:
 * blocks
 * pages
 * internal links & references
