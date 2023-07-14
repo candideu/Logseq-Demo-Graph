@@ -1,7 +1,7 @@
+https://github.com/candideu/Logseq-Demo-Graph/assets/55474996/79ce8300-2597-4121-8868-605f8157877f
+
 # Logseq Demo Graph
 This quick start Logseq graph will help you find your way around the app.
-
-https://github.com/candideu/Logseq-Demo-Graph/assets/55474996/79ce8300-2597-4121-8868-605f8157877f
 
 You'll learn about:
 * blocks
