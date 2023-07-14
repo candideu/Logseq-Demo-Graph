@@ -26,7 +26,8 @@
 	  collapsed:: true
 		- ![media controls screenshot](https://github.com/stefanbuck/logseq-media-controls/raw/main/screenshot.png)
 	- [Get YouTube Captions](https://github.com/briansunter/logseq-get-youtube-captions): downloading youtube captions and subtitles from videos (timestamps included)
-		-
+	  collapsed:: true
+		- ![Get YouTube Captions Demo](https://i.imgur.com/hmjOIv4.mp4)
 -
 - # Utilities
 	- [TOC Generator](https://github.com/sethyuan/logseq-plugin-tocgen/blob/master/README.en.md): generate a table of contents based on headings
