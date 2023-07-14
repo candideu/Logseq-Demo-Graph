@@ -17,5 +17,7 @@ You'll learn about:
 You can preview a live version of the graph here: https://candideu.github.io/logseq-demo-graph-site-export
 
 # Here is how you can load the demo graph into Logseq
+https://github.com/candideu/Logseq-Demo-Graph/assets/55474996/239b9961-3066-4d86-996b-2de60de40d4f
+
 
 ## [Click here to download the Graph, which can be opened in Logseq](https://github.com/candideu/Logseq-Demo-Graph/archive/refs/heads/main.zip)
