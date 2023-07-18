@@ -14,13 +14,13 @@
   collapsed:: true
 	- {{embed [[Advanced Tips & Tricks]]}}
 -
-- ## [[Favourite Plugins]]
-  collapsed:: true
-	- {{embed [[Favourite Plugins]]}}
--
 - ## [[Working with Media Files: Embed Audio, Photos, Videos]]
   collapsed:: true
 	- {{embed [[Working with Media Files: Embed Audio, Photos, Videos]]}}
+-
+- ## [[Favourite Plugins]]
+  collapsed:: true
+	- {{embed [[Favourite Plugins]]}}
 -
 - ## [[Publishing your Graph Online]]
   collapsed:: true

@@ -70,6 +70,7 @@
 		- ![Turn off journals](https://i.imgur.com/w5jxEER.mp4)
 	-
 	- If you're using the daily journal pages, make sure you set the date format that you want. Changing it after you've started working on your graph is a pain since it can break page references.
+	  id:: 64b6d28c-7208-4b73-a6c7-da099533dded
 	  collapsed:: true
 	  
 	  To change the format, click on the three horizontal dots `•••` at the top-right and go to the `Settings > Editor > Preferred date format` and select the one you want. Make sure to [re-index](((6494c06d-6088-4a17-9c59-cf7e21b615f0))).

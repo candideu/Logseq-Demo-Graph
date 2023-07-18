@@ -3,7 +3,9 @@
 	- [[Quick Start]]
 	- [[Formatting Style Guide]]
 	- [[Advanced Tips & Tricks]]
+	- [[Working with Media Files: Embed Audio, Photos, Videos]]
 	- [[Favourite Plugins]]
+	- [[Publishing your Graph Online]]
 -
 -
 - # Formatting Style Guide
